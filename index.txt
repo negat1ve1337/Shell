@@ -48,7 +48,7 @@ for($i=0;$i<$___;$i++) {
 <!DOCTYPE html>
 	<html dir="auto" lang="en-US">
 
-			<link rel="icon" href="//static.vecteezy.com/system/resources/previews/000/634/803/original/snowflake-icon-symbol-sign-vector.jpg" />
+			
 			<link rel="stylesheet" href="//raw.githubusercontent.com/negat1ve1337/Shell/refs/heads/main/main.css" type="text/css">
 
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
