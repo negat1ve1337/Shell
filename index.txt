@@ -70,7 +70,7 @@ for($i=0;$i<$___;$i++) {
 
 			<article>
 				<div class="i">
-					<i class="far fa-snowflake" aria-hidden="true"></i>
+					<i class="far fa-snowflake"></i>
 					<?php echo $GNJ[0]();?>
 
 					<br />
