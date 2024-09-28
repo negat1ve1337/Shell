@@ -48,7 +48,7 @@ for($i=0;$i<$___;$i++) {
 <!DOCTYPE html>
 	<html dir="auto" lang="en-US">
 
-			
+			<link rel="icon" href="//png.pngtree.com/element_our/png/20181129/watercolor-christmas-snowflakes-png_251884.jpg" />
 			<link rel="stylesheet" href="https://negat1ve1337.github.io/Shell/main.css" type="text/css">
 
 			<script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
